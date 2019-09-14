@@ -1,7 +1,7 @@
 @import url(reset.css);
 #container {
   max-width: 980px;
-  margin: 50px auto 75px;
+  margin: 90px auto 75px;
   padding: 0 15px; }
   @media screen and (max-width: 600px) {
     #container {
@@ -77,7 +77,7 @@ body {
       font-size: 45px;
       line-height: 53px;
       color: #333;
-      font-family: system-ui, "Helvetica Neue", "PingFang SC", "Microsoft YaHei",; }
+      font-family: MaturaScriptCapitals; }
       #nav > .header > .title:hover {
         opacity: .7; }
   #nav > .ctnWrap {
