@@ -1,6 +1,6 @@
 @import url(reset.css);
 #container {
-  max-width: 1280px;
+  max-width: 1100px;
   margin: 90px auto 75px;
   padding: 0 15px; }
   @media screen and (max-width: 600px) {
@@ -70,7 +70,7 @@ body {
   clear: both; }
 
 #nav {
-  margin-bottom: 64px; }
+  margin: 0px 30px 40px 20px; }
   #nav > .header {
     margin-bottom: 10px; }
     #nav > .header > .title {
@@ -157,7 +157,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 80px 100px;
+  padding: 80px 60px;
   margin: 40px 0;
   background-color: white;
   color: #333; }
@@ -224,8 +224,8 @@ body {
         width: 100%; } }
 
 .article {
-  margin: 64px 0 80px;
-  padding: 80px 100px 0;
+  margin: 40px 0 80px;
+  padding: 80px 80px 0;
   background-color: white;
   color: #333;
   font-size: 16px;
