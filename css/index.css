@@ -246,7 +246,6 @@ body {
       margin-bottom: 5px;
       text-align: center; }
     .article > .content h2 {
-      color: #ea5947;
       font-size: 20px;
       font-weight: 600;
       margin-top: 40px;
@@ -360,14 +359,12 @@ body {
 h3 {
   font-size: 16px;
   font-weight: 600;
-  margin-bottom: 10px;
-    text-align: center;
- }
+  margin-bottom: 10px; }
 
 h4 {
   font-size: 16px;
   font-weight: 600;
-}
+  color: #969696; }
 
 h5 {
   font-size: 14px;
@@ -377,8 +374,7 @@ h5 {
 h1 {
   font-size: 24px;
   font-weight: 600;
-  margin-bottom: 5px;
-}
+  margin-bottom: 5px; }
 
 h2 {
   font-size: 20px;
@@ -389,8 +385,7 @@ h2 {
 p {
   font-size: 16px;
   line-height: 30px;
-  margin-bottom: 15px;
- }
+  margin-bottom: 15px; }
 
 img {
   margin-bottom: 10px; }
